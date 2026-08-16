@@ -4,8 +4,8 @@ def say_hello(name):
 # Assign the function to a variable (without parantheses)
 greet_function = say_hello
 
-print(greet_function("Vaishnavi"))
-print(say_hello("Vaishnavi"))
+print(greet_function("Theertha"))
+print(say_hello("Theertha"))
 
 # Passing the functions as arguments
 def apply_operation(func,value):

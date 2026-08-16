@@ -20,3 +20,4 @@ class MyClass(metaclass=SimpleMeta):
 print(MyClass.x)
 print(MyClass.created_at)
 print(MyClass.created_by)
+

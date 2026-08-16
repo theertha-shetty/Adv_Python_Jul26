@@ -13,4 +13,5 @@ for i in range(5):
 person = {'name':'Vaishnavi','age':20,'city':'Mumbai'}
 for key,value in person.items():
     print(f"{key}:{value}")
+
     
